@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'HospitalMgmt'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BAB6A90F2E35429299D8F91BDDD25DF4 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_AC8F316120434FDCA9A84562449BFDBA }}
           package: .
